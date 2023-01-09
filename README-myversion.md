@@ -169,3 +169,5 @@ The 1 in grid-column nad grid-row indicates the start and the 3 indicates the gr
 1. how to change the `.home-banner` to style na kuha yung itsura nung nasa image, hindi yung responsive na lumalaki habang linalakihan screen size.
 
 2. services image, pano paliitin.
+
+3. social links not fixed, need to change the display when hovering mouse.
