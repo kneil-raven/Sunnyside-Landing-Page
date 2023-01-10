@@ -336,7 +336,7 @@ HEADER SECTION - navbar toggle btn active state
 .service-img {
     width: 100%;
     height: 100%;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 .service-absolute-content {
